@@ -94,11 +94,11 @@ graph TD
     - Setup of the Flask API.
     - Validation of the "Universal to English" translation pipeline.
 
-- [ ] **Phase 2: The Visual Bridge**
+- [x] **Phase 2: The Visual Bridge**
     - Development of the Web Interface.
     - Client-Server audio transmission protocols.
 
-- [ ] **Phase 3: The Signing Avatar**
+- [x] **Phase 3: The Signing Avatar**
     - Mapping English phonemes/words to ASL gestures.
     - Integration of a 3D Character.
     - Real-time synchronization and blending.
